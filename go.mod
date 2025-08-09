@@ -1,4 +1,4 @@
-module github.com/dcatwoohoo/otelmetricsgin
+module github.com/dchapman992000/otelmetricsgin
 
 go 1.22
 
